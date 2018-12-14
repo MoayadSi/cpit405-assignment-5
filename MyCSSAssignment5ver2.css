@@ -1,0 +1,54 @@
+body{
+	background-color: #808080;
+	
+}
+
+p{
+	display: inline;
+	font-size:120%
+}
+select{
+	background-color: white; color: black;
+	padding: 10px;
+	border-radius: 12px;
+	border: solid;
+	border-color: white;
+	margin: 10px
+}
+img{
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 5px;
+}
+button{
+	background-color: white; color: black;
+	padding: 16px;
+	border-radius: 12px;
+	border: solid;
+	border-color: white;
+	margin: 10px
+}
+button:hover {
+	background-color: grey;
+}
+input{
+	padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;	
+	    width: 45%;
+
+}
+
+#searchBtn{
+	position: relative;
+	left: 60px;
+	bottom: 15px;
+	width: 10%;
+}
+
+#imagesSection{
+    display: inline
+}
